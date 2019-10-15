@@ -1,7 +1,7 @@
 # RSA_Encryption
 1)Choose two prime numbers p and q.
 
-2) Calculate n = p*q
+2)Calculate n = p*q
 
 3)Calculate  ϕ(n) = (p – 1) * (q – 1)
 
